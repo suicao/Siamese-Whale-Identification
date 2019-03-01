@@ -1,0 +1,1 @@
+```python train_rgb.py --train_df <path-to>/train.csv --sub_df <path-to>/sample_submission.csv --train_dir <path-to>/train --test_dir <path-to>/test```
